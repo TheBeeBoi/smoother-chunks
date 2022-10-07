@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.thebeeboi.smootherchunks.SmootherChunks"
+      "tech.thebeeboi.smootherchunks.SmootherChunks"
     ]
   },
   "accessWidener" : "smootherchunks.accesswidener",
