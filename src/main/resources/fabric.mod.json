@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Smoother Chunks",
-  "description": "This is a fabric mod to show epic chunk loading animations (an updated fork of smooth chunks)",
+  "description": "This is a fabric mod to show epic chunk loading animations (not a fork of smooth chunks)",
   "authors": [
     "TheBeeBoi"
   ],
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "tech.thebeeboi.smootherchunks.SmootherChunks"
+      "io.thebeeboi.smootherchunks.SmootherChunks"
     ]
   },
   "accessWidener" : "smootherchunks.accesswidener",

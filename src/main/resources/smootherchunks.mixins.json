@@ -1,12 +1,12 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "tech.thebeeboi.smootherchunks.mixin",
+  "package": "io.thebeeboi.smootherchunks.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],
   "client": [
-    "SmootherChunksClient"
+    "SmootherMixin"
   ],
   "injectors": {
     "defaultRequire": 1
