@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "smootherchunks",
+  "version": "${version}",
+
+  "name": "Smoother Chunks",
+  "description": "This is a fabric mod to show epic chunk loading animations (an updated fork of smooth chunks)",
+  "authors": [
+    "TheBeeBoi"
+  ],
+  "contact": {
+    "homepage": "https://apparently-i-exist.netlify.app",
+    "sources": "https://github.com/TheBeeBoi/smoother-chunks"
+  },
+
+  "license": "MIT",
+  "icon": "assets/smootherchunks/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "tech.thebeeboi.smootherchunks.SmootherChunks"
+    ]
+  },
+  "accessWidener" : "smootherchunks.accesswidener",
+  "mixins": [
+    "smootherchunks.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}
