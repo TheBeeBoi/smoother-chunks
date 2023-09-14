@@ -1,6 +1,7 @@
-<h1 align="center">Hey! This mod it a work-in-progress!</h1>
-<p align="center">Do not use it yet!</h1>
-<p align="center">Credit to the original owner of the smoother chunks mod: Flogic/Caden Kriese</h1>
+<h1 align="center">Hey! This mod is ~~a work-in-progress!~~ ambandoned for now.</h1>
+<h2 align="center">~~Do not use it yet!~~ I have school going on right now, and I'm currently unable to continue working on it.</h1>
+<h2 align="center">ETA: From 1~3 years.</h2>
+<h2 align="center">Credit to the original owner of the smoother chunks mod: Flogic/Caden Kriese</h1>
 <p align="center">
 <a href="https://github.com/fl0gic/smooth-chunks/blob/master/LICENSE"><img src="https://img.shields.io/github/license/fl0gic/smooth-chunks?style=for-the-badge"></a>
 <img src="https://img.shields.io/github/v/tag/fl0gic/smooth-chunks?include_prereleases&label=version&style=for-the-badge">
