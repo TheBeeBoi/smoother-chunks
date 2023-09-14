@@ -1,5 +1,5 @@
-<h1 align="center">Hey! This mod is ~~a work-in-progress!~~ ambandoned for now.</h1>
-<h2 align="center">~~Do not use it yet!~~ I have school going on right now, and I'm currently unable to continue working on it.</h1>
+<h1 align="center">Hey! This mod is <s>a work-in-progress!</s> ambandoned for now.</h1>
+<h2 align="center"><s>Do not use it yet!</s> I have school going on right now, and I'm currently unable to continue working on it.</h1>
 <h2 align="center">ETA: From 1~3 years.</h2>
 <h2 align="center">Credit to the original owner of the smoother chunks mod: Flogic/Caden Kriese</h1>
 <p align="center">
